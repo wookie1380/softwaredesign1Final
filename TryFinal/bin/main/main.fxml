@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.FlowPane?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="840.0" prefWidth="929.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextArea fx:id="txtArea" layoutX="324.0" layoutY="234.0" prefHeight="266.0" prefWidth="281.0" />
+      <ListView fx:id="lstView" layoutX="13.0" layoutY="234.0" prefHeight="266.0" prefWidth="287.0" />
+      <Button fx:id="btnRaven" layoutX="13.0" layoutY="140.0" mnemonicParsing="false" text="The Raven Words" />
+      <Button fx:id="btnSql" layoutX="427.0" layoutY="140.0" mnemonicParsing="false" text="SQL" />
+      <Button fx:id="btnOther" layoutX="795.0" layoutY="153.0" mnemonicParsing="false" text="Some Button" />
+      <TextArea fx:id="txtArea1" layoutX="324.0" layoutY="510.0" prefHeight="266.0" prefWidth="281.0" />
+      <TextArea fx:id="txtArea2" layoutX="634.0" layoutY="510.0" prefHeight="266.0" prefWidth="281.0" />
+      <TextArea fx:id="txtArea3" layoutX="634.0" layoutY="234.0" prefHeight="266.0" prefWidth="281.0" />
+      <ListView fx:id="lstView1" layoutX="13.0" layoutY="510.0" prefHeight="266.0" prefWidth="287.0" />
+      <Label layoutX="418.0" layoutY="14.0" text="Final Attempt 1" />
+   </children>
+</Pane>
